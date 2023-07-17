@@ -16,4 +16,5 @@ Berikut adalah screnshot hasil belajar kali ini
 
 Desain Card Content
 
+<img src="screnshot/2.png">
 
