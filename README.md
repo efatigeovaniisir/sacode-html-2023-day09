@@ -12,3 +12,6 @@ hasil belajar :https://efatigeovaniisir.github.io/sacode-html-2023-day09/
 
 Berikut adalah screnshot hasil belajar kali ini
  <img src="screnshot/1.png">
+
+Desain Card Content
+ <img src="screnshot/2.png">
